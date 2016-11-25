@@ -1,0 +1,22 @@
+
+.myfondo{
+    -fx-background-color: #008080;
+}
+
+.text{
+	-fx-font-size: 20px;
+	-fx-font-weight: bold;
+}
+.text2{
+	-fx-font-size: 14px;
+	-fx-font-weight: bold;
+	-fx-text-fill: grey;
+}
+.text3{
+	-fx-font-size: 10px;
+}
+.mybutton{
+	-fx-background-color: #008080;
+	-fx-border-color: white;
+	-fx-text-fill: white;
+}
